@@ -1,0 +1,26 @@
+{
+  "name": "vitest-string-calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringCalculator.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mage84/vitest-string-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mage84/vitest-string-calculator/issues"
+  },
+  "homepage": "https://github.com/Mage84/vitest-string-calculator#readme",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
