@@ -14,4 +14,4 @@ jobs:
         run: npm ci         # clean install for CI
 
       - name: Run Vitest
-        run: npx vitest run --coverage
+        run: npx vitest run
